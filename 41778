@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Aprendiz</title>
+</head>
+<body> <center>
+    <h1>BIOLOGIA</h1> 
+    <img src="Imagen/Nouveau dossier/1732470823607.jpg" width="320">
+    <p>Biologia Es la ciencia que estudia los seres vivos , el origen , su estructura , sus caracteristicas , evolucion , asi como sus procesos vitales y su relacion con el entorno
+        <br>
+    El estudio lo hace desde diferentes puntos de vista,Esta el ecologico, el molecular, el genetico...
+    </p>
+
+    
+</br>
+</center>
+<body>
+
+<h2>Los Reinos</h2>
+<p>En la Biologia hay <em> semejanzas y diferencias entre las especies </em> y por eso dividen en Rinos , que son:</p>
+
+<h3><i>Reino Animal </i></h3>
+<h3><i>Reino Vegetal </i></h3>
+<h3><i>Reino de los Hongos  </i></h3>
+<h3><i>Reino Protista</i></h3>
+<h3><i>Reino Bacteriano</i></h3>
+
+<h2>Ramas de la Biologia</h2>
+<P> La Biologia abarca varias ramas , las cuales son:</P>
+<h2>Genetica</h2>
+
+<p>Estudia la herencia y la variabilidad de los organismos</p>
+
+<h2>Ecologia</h2>
+
+<p>Estudia las interacciones entre los organismos y su entorno</p>
+
+<h2>Microbiologia</h2>
+
+<p>Estudia los microganismos como las bacterias,virus y los hongos </p>
+
+<h2>Anatomia</h2>
+
+<p>Estudia la estructura interna de los organismos</p>
+
+<h2>Botanico</h2>
+
+<p>Estudia las plantas ,su estructura , clasificacion y funciones</p>
+
+<h2>Zoologia</h2>
+<p>Estudia a los animales ,su comportamiento y clasificacion</p>
+<h2>Otros como : </h2>
+<h3>Biologia molecular, Fisiologia , Paleonteologia , Taxonomia, Inmunologia, Bioquimica, Entomologia , Etologia,...</h3>
+
+<h2>CONTACTO</h2>
+<p>Puedes Contactarme atraves de mi correo electronico : marianodelatrini@gmail.com</p>
+
+</body>
+</html>
